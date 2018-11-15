@@ -1,0 +1,113 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "AvenirNext-Medium",
+              "size": 8
+            }
+          }
+        },
+        "length": 52,
+        "location": 0
+      }
+    ],
+    "string": "2019 Winter Registration-180 & above graded credits."
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "54AEC107-0C88-41FE-B155-0B7156B22C7D",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EABFBB04-99A5-4A1E-89B8-0591EB7C1E79",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BA5C2C9F-AD36-4288-93AB-FCD37F222321",
+    "height": 26,
+    "width": 144,
+    "x": 150,
+    "y": 460
+  },
+  "glyphBounds": "{{0, 1}, {141, 20}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "2019 Winter Registra",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "60A70F40-4F7D-4ECE-82FC-48258472568E",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 2.222222222222222,
+      "type": 0
+    },
+    "do_objectID": "9D6BC27A-5280-4347-A906-00767B5563FB",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "A675098D-46C2-40B1-A2CD-29779CCFAF29",
+      "encodedAttributes": {
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "AvenirNext-Medium",
+            "size": 8
+          }
+        }
+      },
+      "verticalAlignment": 0
+    }
+  },
+  "textBehaviour": 2,
+  "userInfo": {
+    "com.invisionlabs.duplicate": {
+      "type-duplicate": {
+        "action": "web",
+        "words": [
+          "News Archive",
+          "Newsletter",
+          "Exhibitions",
+          "Technology + Equipment",
+          "Galleries",
+          "Library",
+          "Parnassus",
+          "Rome Center",
+          "Exhibitions, 2017–2018",
+          "Exhibitions, 2016–2017",
+          "Exhibitions, 2015–2016",
+          "Exhibitions, 2014–2015",
+          "Calendar",
+          "Critical Art Writing Group",
+          "Recent News"
+        ]
+      }
+    }
+  }
+}

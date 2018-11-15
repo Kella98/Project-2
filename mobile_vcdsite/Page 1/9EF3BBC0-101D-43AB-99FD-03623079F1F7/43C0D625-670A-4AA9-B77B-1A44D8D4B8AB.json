@@ -1,0 +1,113 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "AvenirNext-Medium",
+              "size": 10.66666666666667
+            }
+          }
+        },
+        "length": 26,
+        "location": 0
+      }
+    ],
+    "string": "German Week Poster Display"
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "43C0D625-670A-4AA9-B77B-1A44D8D4B8AB",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D9DD9376-6AF3-47AC-B03B-603C20C7B717",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C7282097-27EE-48F6-AC01-CBEF2F5B4BE1",
+    "height": 22,
+    "width": 144,
+    "x": 148,
+    "y": 269
+  },
+  "glyphBounds": "{{0, 2}, {143, 12}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "German Week Poster D",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "D8737CD0-5B6C-43B2-B91D-A3C488BBDAD8",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 2.222222222222222,
+      "type": 0
+    },
+    "do_objectID": "BEB10864-672A-412D-86A4-74E463310B61",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "4F1A3D08-1E72-466A-899E-A8E8989739EB",
+      "encodedAttributes": {
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "AvenirNext-Medium",
+            "size": 10.66666666666667
+          }
+        }
+      },
+      "verticalAlignment": 0
+    }
+  },
+  "textBehaviour": 2,
+  "userInfo": {
+    "com.invisionlabs.duplicate": {
+      "type-duplicate": {
+        "action": "web",
+        "words": [
+          "News Archive",
+          "Newsletter",
+          "Exhibitions",
+          "Technology + Equipment",
+          "Galleries",
+          "Library",
+          "Parnassus",
+          "Rome Center",
+          "Exhibitions, 2017–2018",
+          "Exhibitions, 2016–2017",
+          "Exhibitions, 2015–2016",
+          "Exhibitions, 2014–2015",
+          "Calendar",
+          "Critical Art Writing Group",
+          "Recent News"
+        ]
+      }
+    }
+  }
+}

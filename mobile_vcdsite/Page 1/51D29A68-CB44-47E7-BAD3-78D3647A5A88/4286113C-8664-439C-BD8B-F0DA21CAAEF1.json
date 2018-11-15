@@ -1,0 +1,58 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "4286113C-8664-439C-BD8B-F0DA21CAAEF1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "22598FD3-DDED-48D8-BBFE-C0F2FE37C99D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "C8BFE07F-C919-4E5E-911C-DC24CBBD7430",
+    "height": 17,
+    "width": 52,
+    "x": 244,
+    "y": 651
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/038086a4e6d872a54218254813d9d318097bd5cf.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "1459870663_ewu-logo",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "535FA0AD-DE17-49E4-B5A0-60B3F7416E23",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 2.222222222222222,
+      "type": 0
+    },
+    "do_objectID": "276A5B34-AE40-4670-B6B4-3EB637FC952C",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

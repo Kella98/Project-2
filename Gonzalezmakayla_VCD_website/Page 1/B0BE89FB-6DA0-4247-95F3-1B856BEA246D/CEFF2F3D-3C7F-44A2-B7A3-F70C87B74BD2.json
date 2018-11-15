@@ -1,0 +1,47 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "CEFF2F3D-3C7F-44A2-B7A3-F70C87B74BD2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7571D6DD-6A72-4627-9FD3-101B2383DB7C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5C06F234-5741-44E2-9967-8558DAD93FD8",
+    "height": 88,
+    "width": 431,
+    "x": 999,
+    "y": 1320
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "926E7337-B3B8-4674-A33F-75D5601B90DE",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "57FBB4EB-9EBD-4210-9490-D953F3544288",
+  "verticalSpacing": 0
+}

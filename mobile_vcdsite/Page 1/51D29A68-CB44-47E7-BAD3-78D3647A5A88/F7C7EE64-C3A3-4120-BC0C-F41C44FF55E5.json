@@ -1,0 +1,49 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "F7C7EE64-C3A3-4120-BC0C-F41C44FF55E5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AEBF6609-55D0-4849-B268-2CF0315D167B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "07F51A30-127F-40D8-B8A0-2E0C34EEFF93",
+    "height": 18,
+    "width": 18,
+    "x": 9,
+    "y": 226
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/6c9d83d66b1800dee816e7d2101fbe7e475ea7b8.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "1024px-Paint_palette_icon_from_the_Noun_Project.svg Copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4F3E1E6D-AAC2-4153-85FC-FFF51E148C9E",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

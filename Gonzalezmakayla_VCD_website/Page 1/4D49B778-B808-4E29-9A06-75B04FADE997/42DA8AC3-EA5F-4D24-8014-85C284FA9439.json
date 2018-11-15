@@ -1,0 +1,69 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "42DA8AC3-EA5F-4D24-8014-85C284FA9439",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "42371B99-9FDA-4404-A847-D72B2B6D6E99",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EA171F42-74C8-4250-9DAD-DDBA08894FDB",
+    "height": 574,
+    "width": 294,
+    "x": 129,
+    "y": 1137
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule- faculty copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A24F7BE7-9646-47A6-B7FF-8EFF67DB5866",
+      "overrideName": "8568D173-2F02-4AD3-9E8F-1C49F1B7E9ED_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/1524e52159ab95408abe5452ea1f0358b0e00988.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D88130D2-BC7C-45E6-9427-1432613B4737",
+      "overrideName": "B45354EA-3DD3-438F-A3EC-D9FB1F11F0F7_stringValue",
+      "value": "Assistant Professor, Visual Communication Design\nCEB 330\nPhone: 509.359.2437\nEmail: tmasingale@ewu.edu"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3DE62616-96F6-46F0-8441-08E01BD71089",
+      "overrideName": "4D000D1E-224F-4DE2-A599-FCD767208DC6_stringValue",
+      "value": "Travis Masingale"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "44406C60-C9B4-4F3C-8237-22B61B3364B9",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "3A23D494-D851-48F7-A00D-BD5F854D0B6F",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "6F4EAD4B-DBE2-475D-AFC1-A20581E34E1D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C837719F-7AFD-4B17-BFDF-F4CEC411085D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1327051E-AF97-4C44-82D5-834C7E77CEF4",
+    "height": 29,
+    "width": 83,
+    "x": 239,
+    "y": 880
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0.2222222222222222,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "D222AEEE-2B85-448F-AE5E-DE134DF1762F",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 2.222222222222222,
+      "type": 0
+    },
+    "do_objectID": "FDA15FAF-D59F-4816-9F52-7264FA5A82CD",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "57FBB4EB-9EBD-4210-9490-D953F3544288",
+  "verticalSpacing": 0
+}

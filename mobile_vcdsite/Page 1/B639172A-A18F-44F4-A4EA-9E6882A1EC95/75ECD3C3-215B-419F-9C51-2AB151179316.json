@@ -1,0 +1,78 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "75ECD3C3-215B-419F-9C51-2AB151179316",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "320B7585-01E5-483A-A88F-A626088543DE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "18FB72FD-722B-4ECE-A527-7DDD3298F525",
+    "height": 197,
+    "width": 100,
+    "x": 176,
+    "y": 125
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule- faculty copy 5",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DFE38FCC-B796-4297-8292-620356CC6FE9",
+      "overrideName": "8568D173-2F02-4AD3-9E8F-1C49F1B7E9ED_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/2a70219b232820d50eb188bf1310cc141b9b8c33.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BABC3ADE-BD31-4FBC-AFF3-508D5357C994",
+      "overrideName": "B45354EA-3DD3-438F-A3EC-D9FB1F11F0F7_stringValue",
+      "value": "Full-time Lecturer\nCheney 208\nPhone: 509.359.7423\nEmail: sdurr2@ewu.edu"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E7BB0488-2ACF-45FB-B8BA-E2F139753223",
+      "overrideName": "4D000D1E-224F-4DE2-A599-FCD767208DC6_stringValue",
+      "value": "Sonja Durr"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0.3418803418803419,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "16AEB5A3-C29D-4F8A-AE40-49FA0C1F7ECB",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 3.418803418803419,
+      "type": 0
+    },
+    "do_objectID": "F5DA6646-42BC-4CCE-A3CB-D4CBC6E33A16",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "3A23D494-D851-48F7-A00D-BD5F854D0B6F",
+  "verticalSpacing": 0
+}

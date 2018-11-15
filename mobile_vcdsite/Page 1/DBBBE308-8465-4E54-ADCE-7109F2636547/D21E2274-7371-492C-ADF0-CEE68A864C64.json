@@ -1,0 +1,78 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "D21E2274-7371-492C-ADF0-CEE68A864C64",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5E4E8402-91A9-43D1-ADF2-1AE36A522526",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BD29CD15-004D-4385-9226-2A6D28AC4EA1",
+    "height": 149,
+    "width": 89,
+    "x": 115,
+    "y": 278
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule - student work copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "27013BC3-0BB4-41D5-ACFD-DFDD7D108107",
+      "overrideName": "85653EC8-D55D-4A11-9B99-194D41B409C1_stringValue",
+      "value": "UX Design Students and Access Tech Showcase Their Work"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E3100E20-181F-4C11-BC61-D90491B7074D",
+      "overrideName": "9CCC08B0-820D-489E-9434-98C21F161178_stringValue",
+      "value": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "41D3F47E-16AE-42F4-B787-47D2D6544D2C",
+      "overrideName": "AEB55741-AA45-4E06-80DD-3A78F4F454A6_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/5a96c8462f8bb6158c7705f9ea53ec5f3c7631eb.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0.2222222222222222,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "C45129B5-FA68-4281-957E-237DD43EBC3D",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 2.222222222222222,
+      "type": 0
+    },
+    "do_objectID": "9966509C-780D-4693-838E-0CE226DB1A0D",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "E5618FF2-97AC-4F0D-B9DC-8DA28340F1B7",
+  "verticalSpacing": 0
+}

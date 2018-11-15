@@ -1,0 +1,121 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "301F9600-9EE4-4FD0-8C5D-F6E0C20E6E43",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "011BFA29-FD3C-4E31-A70D-4C0E1F0B1830",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "5CB87F7C-92FF-4571-AB57-FF8D41700BF9",
+    "height": 53,
+    "width": 53,
+    "x": 16,
+    "y": 474
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "FF497BA5-D63C-4B06-A099-2989F070FC6C"
+    }
+  ],
+  "name": "Rectangle 3 Copy 10",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "AAE344ED-79D5-4FD9-8AA9-4943F32E81FC",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 2.222222222222222,
+      "type": 0
+    },
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "position": 1,
+        "thickness": 0.5
+      }
+    ],
+    "do_objectID": "123D37AD-3C1F-4008-896D-D1FF6C711CCF",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8470588235294118,
+          "green": 0.8470588235294118,
+          "red": 0.8470588235294118
+        },
+        "fillType": 4,
+        "image": {
+          "_class": "MSJSONFileReference",
+          "_ref": "images/b5954572ba5515ee5776c8c8c60abac27279334b.png",
+          "_ref_class": "MSImageData"
+        },
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.invisionlabs.duplicate": {
+      "photos-duplicate": {
+        "asTile": 0,
+        "items": [
+          {
+            "link": "https://cdn-images-1.medium.com/fit/t/1600/480/1*SaIM_3i9r9tsuhRleJDlRw.jpeg",
+            "type": "src"
+          },
+          {
+            "link": "https://cdn-images-1.medium.com/fit/t/1600/480/1*SaIM_3i9r9tsuhRleJDlRw.jpeg",
+            "type": "src"
+          },
+          {
+            "link": "https://cdn-images-1.medium.com/max/768/1*6Rs3Zr5ePbkLrKYqmzojNw.jpeg",
+            "type": "src"
+          }
+        ],
+        "mode": "web"
+      }
+    }
+  },
+  "windingRule": 1
+}

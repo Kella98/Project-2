@@ -1,0 +1,78 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "5CFD90D6-F17E-45ED-A4E6-E922F8577B2B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2B487185-3CE4-453E-A739-93BBA8CAA965",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C44A270E-1BCF-44A5-A240-5D837A318F08",
+    "height": 197,
+    "width": 100,
+    "x": 176,
+    "y": 343.9999999999999
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule- faculty copy 10",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A24F7BE7-9646-47A6-B7FF-8EFF67DB5866",
+      "overrideName": "8568D173-2F02-4AD3-9E8F-1C49F1B7E9ED_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/1524e52159ab95408abe5452ea1f0358b0e00988.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D88130D2-BC7C-45E6-9427-1432613B4737",
+      "overrideName": "B45354EA-3DD3-438F-A3EC-D9FB1F11F0F7_stringValue",
+      "value": "Assistant Professor, Visual Communication Design\nCEB 330\nPhone: 509.359.2437\nEmail: tmasingale@ewu.edu"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3DE62616-96F6-46F0-8441-08E01BD71089",
+      "overrideName": "4D000D1E-224F-4DE2-A599-FCD767208DC6_stringValue",
+      "value": "Travis Masingale"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0.3418803418803419,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "A67C995A-66BD-4F6F-BF37-D6F0DD789002",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 3.418803418803419,
+      "type": 0
+    },
+    "do_objectID": "F02F074E-6322-4E5B-8F18-50D61E64BAF3",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "3A23D494-D851-48F7-A00D-BD5F854D0B6F",
+  "verticalSpacing": 0
+}

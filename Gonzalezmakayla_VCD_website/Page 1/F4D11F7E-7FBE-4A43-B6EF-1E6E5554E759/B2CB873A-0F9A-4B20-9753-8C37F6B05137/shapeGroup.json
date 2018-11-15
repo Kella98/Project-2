@@ -1,0 +1,112 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "B2CB873A-0F9A-4B20-9753-8C37F6B05137",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2C26954C-3C59-4989-AD41-5E3AEDC9461F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "5646BC50-52D5-40BC-9D1A-14BBE43EA9A9",
+    "height": 239,
+    "width": 239,
+    "x": 70,
+    "y": 2069
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "30B6EE21-1660-49B5-9095-AF3E491E56B0"
+    }
+  ],
+  "name": "Rectangle 3 Copy 10",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "position": 1,
+        "thickness": 1
+      }
+    ],
+    "do_objectID": "9AB3DA58-D3CF-4F5C-9A8E-2DFC68CF8C60",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.8470588235294118,
+          "green": 0.8470588235294118,
+          "red": 0.8470588235294118
+        },
+        "fillType": 4,
+        "image": {
+          "_class": "MSJSONFileReference",
+          "_ref": "images/b5954572ba5515ee5776c8c8c60abac27279334b.png",
+          "_ref_class": "MSImageData"
+        },
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.invisionlabs.duplicate": {
+      "photos-duplicate": {
+        "asTile": 0,
+        "items": [
+          {
+            "link": "https://cdn-images-1.medium.com/fit/t/1600/480/1*SaIM_3i9r9tsuhRleJDlRw.jpeg",
+            "type": "src"
+          },
+          {
+            "link": "https://cdn-images-1.medium.com/fit/t/1600/480/1*SaIM_3i9r9tsuhRleJDlRw.jpeg",
+            "type": "src"
+          },
+          {
+            "link": "https://cdn-images-1.medium.com/max/768/1*6Rs3Zr5ePbkLrKYqmzojNw.jpeg",
+            "type": "src"
+          }
+        ],
+        "mode": "web"
+      }
+    }
+  },
+  "windingRule": 1
+}

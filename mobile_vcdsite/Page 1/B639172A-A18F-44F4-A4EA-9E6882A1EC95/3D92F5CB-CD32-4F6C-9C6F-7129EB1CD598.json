@@ -1,0 +1,49 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "3D92F5CB-CD32-4F6C-9C6F-7129EB1CD598",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EE75C894-A563-448E-8269-AC73EBE041DA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "9282C5C8-78A3-4110-94B7-2B0E5A9562C9",
+    "height": 24,
+    "width": 24,
+    "x": 6,
+    "y": 301
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/fc125ce1ad40b74de3da03959c1eef067be85fb5.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "afbbf15d5e82a1c4fb5a55c4eacf3003-graduation-cap-icon-by-vexels copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "77DA36F6-3892-4802-B46D-783E3FC22EF9",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

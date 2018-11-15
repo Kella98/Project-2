@@ -1,0 +1,49 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "D6181733-E22C-463D-B8A0-D19627E4F3D9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6D0A9211-50FA-4F65-B04D-C143FE29D650",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "73471113-6EA0-40FE-A356-C098CE23B3D8",
+    "height": 21,
+    "width": 21,
+    "x": 8,
+    "y": 261
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/48155da9e39a678acf4696ae7e79ffdfcf68a674.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Customers-Icon Copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2DA4716E-376B-4132-9694-B072C0F9B5D9",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

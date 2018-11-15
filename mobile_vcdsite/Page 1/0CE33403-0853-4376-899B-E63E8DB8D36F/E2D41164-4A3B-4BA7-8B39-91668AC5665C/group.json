@@ -1,0 +1,78 @@
+{
+  "_class": "group",
+  "do_objectID": "E2D41164-4A3B-4BA7-8B39-91668AC5665C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "140E9590-F70C-430B-A041-FCD8A2EB708D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6C9E1F04-3D20-4AD0-BDC2-0E453CD71954",
+    "height": 17,
+    "width": 27,
+    "x": 16,
+    "y": 29
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "9862350A-90E6-4451-BFC2-26BE01D41F09"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "760C90B2-BC0A-4C63-88B7-B1376C1F1FEC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "109C9956-CE5E-47C3-97EC-56EDB282070D"
+    }
+  ],
+  "name": "Group 2 Copy 11",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "12D60F5A-FC77-4755-92B3-0562AEEFB0EA",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.invision.prototype": {
+      "backgroundOpacity": 0,
+      "closeOnClickOutside": 1,
+      "componentType": "SRLink",
+      "fixOverlayPosition": 1,
+      "gesture": 0,
+      "linkType": 0,
+      "maintainScrollPositionAfterGesture": 0,
+      "maintainScrollPositionAfterRedirect": 0,
+      "openURLInNewWindow": 0,
+      "overlayPosition": 0,
+      "overlayTransition": 0,
+      "redirectAfter": 0,
+      "reverseTransitionOnClose": 1,
+      "scrollToPosition": 0,
+      "smoothScrolling": 0,
+      "stayOnTargetScreen": 0,
+      "targetArtboardID": "DBBBE308-8465-4E54-ADCE-7109F2636547",
+      "transition": 0
+    }
+  }
+}

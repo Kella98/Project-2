@@ -1,0 +1,69 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "08D91375-1E3A-4166-8408-1135C85684C1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3F7D139C-1D61-4DC4-98E3-5291E82451C1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E8E97D3B-3400-4B6C-8414-D2F34456BA0A",
+    "height": 574,
+    "width": 294,
+    "x": 127,
+    "y": 1802
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule- faculty copy 4",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "91DC2A41-EA9F-4018-9578-3B9B5B86A11E",
+      "overrideName": "B45354EA-3DD3-438F-A3EC-D9FB1F11F0F7_stringValue",
+      "value": "Professor Emeritus, Visual Communication Design\nCEB 335\nPhone: 509.359.2437\nEmail: jbraukmann@ewu.edu"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7861973F-9626-420A-91E2-CFF4614D406E",
+      "overrideName": "8568D173-2F02-4AD3-9E8F-1C49F1B7E9ED_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/9f148a9e1b3f50cf0c252d2b925f97c19f48dbd4.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DB34BBB5-8532-4C79-93A2-AD0DD931AF26",
+      "overrideName": "4D000D1E-224F-4DE2-A599-FCD767208DC6_stringValue",
+      "value": "James Braukmann"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "596E12A3-F5A7-40A5-9C2A-6BAC3F3C96CD",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "3A23D494-D851-48F7-A00D-BD5F854D0B6F",
+  "verticalSpacing": 0
+}

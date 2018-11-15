@@ -1,0 +1,58 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "A68C2B34-046F-487D-A701-9A007F89EB75",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5EADE317-8500-4184-88DD-557BADA6DA1B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "5944FDBE-8E2F-4638-BA95-041DEC1AE4FA",
+    "height": 103,
+    "width": 154,
+    "x": 151,
+    "y": 97
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/1954647138a4bdb088de990e7ef4aa131e825de8.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 144,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "PNCA-Student-Work-Madison-Black-2016-Comm-Design",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "C6C4B478-BE2A-4E63-9DF3-DF14F0517861",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 2.222222222222222,
+      "type": 0
+    },
+    "do_objectID": "6AB3847B-8F25-4A31-AAC0-6914AD203D20",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

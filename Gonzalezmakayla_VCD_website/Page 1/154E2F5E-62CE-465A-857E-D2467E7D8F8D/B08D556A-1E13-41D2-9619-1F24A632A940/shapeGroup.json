@@ -1,0 +1,177 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "B08D556A-1E13-41D2-9619-1F24A632A940",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 523,
+    "width": 1440,
+    "x": 0,
+    "y": 1458
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "491ABF85-A618-44D9-B919-CF6938F4C2F6"
+    }
+  ],
+  "name": "Rectangle 5",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "position": 1,
+        "thickness": 1
+      }
+    ],
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.4941176470588236,
+          "green": 0.9686274509803922,
+          "red": 0.9686274509803922
+        },
+        "fillType": 4,
+        "image": {
+          "_class": "MSJSONFileReference",
+          "_ref": "images/25b72423e99f9c9228e56af5d8f4dadadb9ae5d0.png",
+          "_ref_class": "MSImageData"
+        },
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.invisionlabs.duplicate": {
+      "photos-duplicate": {
+        "asTile": 0,
+        "items": [
+          {
+            "link": "https://images.unsplash.com/photo-1517673132405-a56a62b18caf?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=86c090f47b65d8de1b34f447c5d929e8&w=1000&q=80",
+            "type": "src"
+          },
+          {
+            "link": "https://images.unsplash.com/photo-1523726491678-bf852e717f6a?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=f2c6bc040331aa3bf21ada0f580d960b&w=1000&q=80",
+            "type": "src"
+          },
+          {
+            "link": "https://images.unsplash.com/photo-1539589390836-05b276e88b97?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=32fc409f50caea21efaf1a4a37cd53fe&w=1000&q=80",
+            "type": "src"
+          },
+          {
+            "link": "https://images.unsplash.com/photo-1529943684416-9d29047b809e?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=5f1939649fe34e041f497e57134a87a9&w=1000&q=80",
+            "type": "src"
+          },
+          {
+            "link": "https://images.unsplash.com/photo-1538045698727-ac45d4365100?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=803638f67f76af54e1c13b71406853f5&w=1000&q=80",
+            "type": "src"
+          },
+          {
+            "link": "https://images.unsplash.com/photo-1526633731461-c7903581c0bd?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=1c06a3764f00be9f50bc270c59c98b0d&w=1000&q=80",
+            "type": "src"
+          },
+          {
+            "link": "https://images.unsplash.com/photo-1491245338813-c6832976196e?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=9e26a71b15a67a05bc8036ac78671234&w=1000&q=80",
+            "type": "src"
+          },
+          {
+            "link": "https://images.unsplash.com/photo-1530801588537-594a77d18206?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=bb6a7de0ef7a27723b469f23f6c937c2&w=1000&q=80",
+            "type": "src"
+          },
+          {
+            "link": "https://images.unsplash.com/photo-1473186505569-9c61870c11f9?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=a3b880a9110916335b943d74e277bb36&w=1000&q=80",
+            "type": "src"
+          },
+          {
+            "link": "https://images.unsplash.com/photo-1522011192057-e3fa8edc734a?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=ed992b4f4b0a25424917688bcd5de76c&w=1000&q=80",
+            "type": "src"
+          },
+          {
+            "link": "https://images.unsplash.com/photo-1485359466996-ba9d9b4958b9?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=39b52036c5d190e274c15de30a6aa976&w=1000&q=80",
+            "type": "src"
+          },
+          {
+            "link": "https://images.unsplash.com/photo-1432888498266-38ffec3eaf0a?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=f38005f4ef6c02f1e40c1a3af591f5e9&w=1000&q=80",
+            "type": "src"
+          },
+          {
+            "link": "https://images.unsplash.com/photo-1493970866116-fe0cad1a5727?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=a4a7a7bdfb162f53881a39a1a5a6a148&w=1000&q=80",
+            "type": "src"
+          },
+          {
+            "link": "https://images.unsplash.com/photo-1506399551582-3e8e97321ea2?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=a3d38ca50cb0fd0b99c84e9555707130&w=1000&q=80",
+            "type": "src"
+          },
+          {
+            "link": "https://images.unsplash.com/photo-1521453290429-5592b95d2b7b?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=eccc66b88db8dfb6437f741e8b73b2e3&w=1000&q=80",
+            "type": "src"
+          },
+          {
+            "link": "https://images.unsplash.com/photo-1521791055366-0d553872125f?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=8428c213c5c30918e7a4b10cb37d482f&w=1000&q=80",
+            "type": "src"
+          },
+          {
+            "link": "https://images.unsplash.com/photo-1535837487710-a191373a20ae?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=f9e53f7ae6915b8da66d8ae99acf77d5&w=1000&q=80",
+            "type": "src"
+          },
+          {
+            "link": "https://images.unsplash.com/photo-1521321205814-9d673c65c167?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=9721a8a306475c662811fab15d38eeaf&w=1000&q=80",
+            "type": "src"
+          },
+          {
+            "link": "https://images.unsplash.com/photo-1526597796581-efa2fc6087ea?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=918f72ac4155328a87ffc0696b6de551&w=1000&q=80",
+            "type": "src"
+          },
+          {
+            "link": "https://images.unsplash.com/photo-1531121349552-da69e0ed45f4?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=c88c1922aa0fd13ebeb3f0b8728c275a&w=1000&q=80",
+            "type": "src"
+          }
+        ],
+        "mode": "web"
+      }
+    }
+  },
+  "windingRule": 1
+}

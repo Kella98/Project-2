@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "A35375F6-EF40-4B12-B6E4-D23DD5EF7975",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DB3D1ACF-25A8-4B7B-A7EF-9E7A1D66AC97",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5927253D-69B4-453C-BB45-19EFAA5BD181",
+    "height": 197,
+    "width": 100,
+    "x": 38,
+    "y": 125
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule- faculty copy 9",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0.3418803418803419,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "8B5A8708-C889-4113-8970-3839F837958A",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 3.418803418803419,
+      "type": 0
+    },
+    "do_objectID": "F5B401E5-77A6-4E1E-B007-FCFEE2DF21F2",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "3A23D494-D851-48F7-A00D-BD5F854D0B6F",
+  "verticalSpacing": 0
+}

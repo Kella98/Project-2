@@ -1,0 +1,66 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "84E8F077-507E-4330-BA79-1F82869A2B85",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1A56D896-EE42-46C4-87BB-BED01C26DDD3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DB6DDFAA-0A32-4EC4-9F35-76136523CC8D",
+    "height": 149,
+    "width": 89,
+    "x": 13,
+    "y": 99
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule - student work",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E265E734-F428-4EE7-839D-95F350EA2FDD",
+      "overrideName": "AEB55741-AA45-4E06-80DD-3A78F4F454A6_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/932ca285ee45c4efee0cd47aad7f68f8f548c2cf.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0.2222222222222222,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "252888A7-D654-49CB-B510-8F05A8040A2D",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 2.222222222222222,
+      "type": 0
+    },
+    "do_objectID": "A1B8CF61-87D5-4274-A3DD-D9B341777297",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "E5618FF2-97AC-4F0D-B9DC-8DA28340F1B7",
+  "verticalSpacing": 0
+}
